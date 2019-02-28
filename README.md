@@ -2,10 +2,13 @@
 Consiste en un juego para Android donde el jugador controla uno de los tanques de guerra disponibles. Podrá disfrutar de diversos minijuegos como lo son dispararle a objetivos, batallar contra otro tanque, Acertar disparos de artillería, etc. El jugador podrá desbloquear contenido extras gracias a las recompensas ganadas.
 
 Actualmente podrán probar un minijuego en dos versiones.
+
 *Versión con Image Target:*
+
 Deben descargar la apk disponible en el repositorio (/resources/versionIT/). A su vez deben imprimir la imagen "target.jpg".
 
 *Versión con User Defined Target:*
+
 Deben descargar la apk disponible en el repositorio (/resources/versionUDT/).
 
 *28/02/2018*
