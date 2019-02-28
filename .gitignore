@@ -37,3 +37,5 @@ sysinfo.txt
 
 # Exception
 !Resources/*
+!Resources/VersionIT/*
+!Resources/VersionUDT/*
