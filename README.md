@@ -12,7 +12,7 @@ Deben descargar la apk disponible en el repositorio (/resources/versionIT/). A s
 Deben descargar la apk disponible en el repositorio (/resources/versionUDT/).
 
 *28/02/2018*
-Debido a unos inconvenientes que llevó a un rework del proyecto se va a continuar con la versión UDT. El juego sigue en desarrollo, proximamente subire novedades.
+Debido a unos inconvenientes que llevó a un rework del proyecto se va a continuar con la versión UDT.
 
 ### Realizado en
 * Unity 2018.2.
